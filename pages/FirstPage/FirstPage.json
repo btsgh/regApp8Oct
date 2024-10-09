@@ -2,7 +2,7 @@
   "gitSyncId": "670509d6a1ec843128585399_4cc9dfab-3d56-497b-a629-601285133bb9",
   "unpublishedPage": {
     "customSlug": "firstpagefortest",
-    "isHidden": true,
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
