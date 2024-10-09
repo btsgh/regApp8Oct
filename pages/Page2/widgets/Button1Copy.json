@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
-  "onClick": "{{copyToClipboard(List1.selectedItem.input);}}",
+  "onClick": "{{clearInterval('button');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,

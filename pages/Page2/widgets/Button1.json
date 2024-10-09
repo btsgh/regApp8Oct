@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
-  "onClick": "{{resetWidget(\"List1\", true);}}",
+  "onClick": "{{setInterval(() => {\n  // add code here\n  showAlert(\"from Button\", \"success\");\n}, 2500, 'button');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
