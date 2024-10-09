@@ -226,7 +226,7 @@
   },
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 34,
+  "rightColumn": 61,
   "searchKey": "",
   "tableData": "{{list.data}}",
   "textSize": "0.875rem",

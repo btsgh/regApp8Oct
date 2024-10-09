@@ -28,6 +28,10 @@
     {
       "id": "Snow",
       "isDefault": false
+    },
+    {
+      "id": "OAuth2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
