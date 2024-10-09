@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "6705257cac4f816e7efc4ddd_23d3643a-9dc9-4d33-8a73-469136079427",
-  "id": "FirstPage_Api5",
+  "gitSyncId": "6705257cac4f816e7efc4ddd_366b35d6-c2f3-4c5a-adb6-4915e3f70c83",
+  "id": "Tjhis_Api3",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -11,17 +11,17 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n    \"name\": \"morpheus\",\n    \"job\": \"zion resident\"\n}",
+      "body": "{\n    \"name\": \"morpheus\",\n    \"job\": \"leader\"\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
         "apiContentType": "none"
       },
       "headers": [],
-      "httpMethod": "PATCH",
+      "httpMethod": "POST",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "/api/users/2",
+      "path": "/api/users",
       "pluginSpecifiedTemplates": [
         {
           "value": true
@@ -41,8 +41,8 @@
     },
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
-    "name": "Api5",
-    "pageId": "FirstPage",
+    "name": "Api3",
+    "pageId": "Tjhis",
     "userSetOnLoad": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "gitSyncId": "670509d6a1ec843128585399_4cc9dfab-3d56-497b-a629-601285133bb9",
   "unpublishedPage": {
-    "customSlug": "firstpagefortest",
+    "customSlug": "",
     "isHidden": false,
     "layouts": [
       {
@@ -28,7 +28,7 @@
         }
       }
     ],
-    "name": "FirstPage",
-    "slug": "firstpage"
+    "name": "Tjhis",
+    "slug": "tjhis"
   }
 }
