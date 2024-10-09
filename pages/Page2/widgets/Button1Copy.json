@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
-  "onClick": "{{download(Image1.image, 'regressionv144', 'image/jpeg');}}",
+  "onClick": "{{copyToClipboard(List1.selectedItem.input);}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
