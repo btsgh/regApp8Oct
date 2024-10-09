@@ -82,6 +82,7 @@
       "key": "boxShadow"
     }
   ],
+  "dynamicTriggerPathList": [],
   "enhancements": true,
   "flexVerticalAlignment": "start",
   "gridType": "vertical",
@@ -93,23 +94,7 @@
   "itemSpacing": 8,
   "key": "pjjs6vkzvc",
   "leftColumn": 9,
-  "listData": [
-    {
-      "id": "001",
-      "img": "https://assets.appsmith.com/widgets/default.png",
-      "name": "Blue"
-    },
-    {
-      "id": "002",
-      "img": "https://assets.appsmith.com/widgets/default.png",
-      "name": "Green"
-    },
-    {
-      "id": "003",
-      "img": "https://assets.appsmith.com/widgets/default.png",
-      "name": "Red"
-    }
-  ],
+  "listData": "[\n  {\n    \"id\": \"001\",\n    \"name\": \"Blue\",\n\t\t\"input\": \"thisisinput\",\n    \"img\": \"https://assets.appsmith.com/widgets/default.png\"\n  },\n  {\n    \"id\": \"002\",\n    \"name\": \"Green\",\n    \"img\": \"https://assets.appsmith.com/widgets/default.png\"\n  },\n  {\n    \"id\": \"003\",\n    \"name\": \"Red\",\n    \"img\": \"https://assets.appsmith.com/widgets/default.png\"\n  }\n]",
   "mainCanvasId": "y01rnnudee",
   "mainContainerId": "jrduhqm0l5",
   "minWidth": 450,

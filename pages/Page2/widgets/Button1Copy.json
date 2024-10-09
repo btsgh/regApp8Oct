@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
-  "onClick": "{{showAlert(List1.selectedItem.name, 'info');}}",
+  "onClick": "{{showAlert(List1.selectedItem.input, 'info');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
