@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6705257cac4f816e7efc4ddd_c2e16719-3e7f-441c-96d0-c5af814712ec",
+  "id": "Page3_typecastingCopy",
+  "unpublishedCollection": {
+    "name": "typecastingCopy",
+    "pageId": "Page3",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

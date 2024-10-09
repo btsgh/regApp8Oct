@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6705257cac4f816e7efc4ddd_882de7d3-fe77-453a-bb65-62ecda6460ed",
+  "id": "FirstPage_typecasting",
+  "unpublishedCollection": {
+    "name": "typecasting",
+    "pageId": "FirstPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

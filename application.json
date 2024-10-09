@@ -18,7 +18,7 @@
   "icon": "line-chart",
   "pages": [
     {
-      "id": "Page1",
+      "id": "FirstPage",
       "isDefault": true
     },
     {
