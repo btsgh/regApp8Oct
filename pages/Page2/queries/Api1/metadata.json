@@ -14,7 +14,7 @@
       "queryParameters": [],
       "timeoutInMillisecond": 10000
     },
-    "confirmBeforeExecute": true,
+    "confirmBeforeExecute": false,
     "datasource": {
       "datasourceConfiguration": {
         "url": "https://www.keycdn.com"
@@ -24,7 +24,7 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "Api1",
     "pageId": "Page2",
     "userSetOnLoad": true
