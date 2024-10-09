@@ -18,15 +18,15 @@
   "icon": "line-chart",
   "pages": [
     {
-      "id": "Tjhis",
-      "isDefault": false
-    },
-    {
       "id": "Page2",
       "isDefault": true
     },
     {
       "id": "Page3",
+      "isDefault": false
+    },
+    {
+      "id": "Tjhis",
       "isDefault": false
     }
   ],
