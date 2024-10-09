@@ -31,7 +31,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
-  "onClick": "{{showModal(Modal1.name);}}",
+  "onClick": "{{removeValue('regressio');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,

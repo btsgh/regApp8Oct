@@ -43,7 +43,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 16,
   "shouldTruncate": false,
-  "text": "{{List1.selectedItem.name}}",
+  "text": "{{appsmith.store.regression}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 36,
